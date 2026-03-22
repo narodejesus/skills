@@ -15,13 +15,13 @@ For more information on how skills work, see [agentskills.io](http://agentskills
 Register this repo as a plugin marketplace:
 
 ```
-/plugin marketplace add onardejesus/skills
+/plugin marketplace add narodejesus/skills
 ```
 
 Then install a skill:
 
 ```
-/plugin install mobile-deployer@onardejesus-skills
+/plugin install mobile-deployer@narodejesus-skills
 ```
 
 # Skill Structure
